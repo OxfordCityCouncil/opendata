@@ -8,6 +8,7 @@ This is a repository for open data sources to use with a JKAN platform
 * Preview works really well for smaller .csv datasets and for geojson datasets - user friendly
 * Files without preview (i.e. too large) give the option to download as a button
 * Really quick and simple to upload files
+* Can add markdown files as sources for additional/supporting information (which can be linked via JKAN)
 
 ## Issues
 
