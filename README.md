@@ -7,7 +7,7 @@ This is a repository for open data sources to use with a JKAN platform
 * Deals with any file type
 * Preview works well for smaller .csv datasets and for geojson datasets
 * Files without preview (i.e.too large) give the option to download as a button
-* 
+* Really quick and simple to upload files
 
 ## Issues
 
@@ -15,6 +15,7 @@ This is a repository for open data sources to use with a JKAN platform
 * Preview will not work for file sizes over a certain size (can't find this limit currently)
 * Off-putting to see large files with an error message and the option to View Raw
 * Downloading is not intuitive. If previewed then difficult for a new user to work out how to download
+* Awkward to create a directory structure when uploading datafiles
 
 ## Ideas
 * Devon use a separate repo for each category, which allows for a link to download all the data as a zip file using the 'clone or download' button
