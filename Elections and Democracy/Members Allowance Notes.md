@@ -3,7 +3,7 @@ This data is published in accordance with the Local Authorities (Members' Allowa
 The tables show the total sum paid by Oxford City Council to each Member of the Council in respect of Basic and Special Responsibility 
 Allowances, Childcare and Dependant Carers Allowances and Travel and Subsistence Expenses.
 
-Notes:
+## Notes
 (1) The Special Responsibility Column includes allowances for the Leader, Deputy Leader, Executive Board Members, Group Leaders and Chairs 
 of Audit, Development Control, Scrutiny Committees and Civic Officer Holders
 
