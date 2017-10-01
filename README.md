@@ -1,6 +1,8 @@
 # opendata
 This is a repository for open data sources to use with a JKAN platform
 
+The use of GitHub as a potential repository for open source data is also being tested. Learning points will be added as the project progresses
+
 ## Advantages
 
 * No hosting costs
