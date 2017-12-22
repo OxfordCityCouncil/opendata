@@ -25,3 +25,4 @@ The use of GitHub as a potential repository for open source data is also being t
 * Devon use a separate repo for each category, which allows for a link to download all the data as a zip file using the 'clone or download' button
 * If separate repos used for each data category, a README.md file can be automatically displayed with additional instructions
 * Use Google Maps for point data files - easier than geocoding elsewhere, and can be downloaded as .kml or .kmz files
+* Alternatively, just accept that files that need to be downloaded can be stored elsewhere in another repository (e.g. council website giving root URL for file)
