@@ -30,8 +30,10 @@ The use of GitHub as a potential repository for open source data is also being t
 ## But....
 [Octopub](https://octopub.io/) offers:
 * A means to upload and control datasets stored on GitHub
-* A better user interface, presented as a Markdown file and including metadata (incl. schema).
+* A better user interface, presented as a Markdown file and including metadata (incl. schema)
 * Allows multiple files for one dataset
+* Preview function allows large datasets to be seen as a sample table (unlike GitHub preview)
 * Enables downloads more easily, either as a single file or grouped
- 
+
+However, only deals with .csv files
 [See an example](http://digital.oxford.gov.uk/hmo-simplified-register/)
