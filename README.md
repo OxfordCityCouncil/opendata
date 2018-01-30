@@ -21,6 +21,9 @@ The use of GitHub as a potential repository for open source data is also being t
 * Downloading is not intuitive. If previewed then difficult for a new user to work out how to download
 * Awkward to create a directory structure when uploading datafiles (but see suggestion below)
 
+## But....
+[Octopub](https://octopub.io/) offers a complementary interface that enables downloads more easily and includes metadata. Enables better management of datasets, and presents with .md files. [See an example](http://digital.oxford.gov.uk/hmo-simplified-register/)
+
 ## Ideas
 * Devon use a separate repo for each category, which allows for a link to download all the data as a zip file using the 'clone or download' button
 * If separate repos used for each data category, a README.md file can be automatically displayed with additional instructions
