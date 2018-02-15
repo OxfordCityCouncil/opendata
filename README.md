@@ -35,6 +35,7 @@ The use of GitHub as a potential repository for open source data is also being t
 * Allows multiple files for one dataset
 * Preview function allows large datasets to be seen as a sample table (unlike GitHub preview)
 * Enables downloads more easily, either as a single file or grouped
+* Enables datasets to be loaded and tested against schemas (you can upload your own)
 
 However, currently only deals with .csv files
 [See an example](http://digital.oxford.gov.uk/hmo-simplified-register/)
