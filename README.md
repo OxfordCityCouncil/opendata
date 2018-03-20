@@ -41,3 +41,5 @@ However, currently only deals with .csv files
 [See an example](http://digital.oxford.gov.uk/hmo-simplified-register/)
 
 UPDATE: ODI are redeveloping Octopub which will allow all file types to be uploaded. Due to launch March 2018
+
+Staging version of the redeveloped tool is at https://octopub-staging.herokuapp.com
