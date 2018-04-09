@@ -1,5 +1,5 @@
 # opendata
-This is a repository for open data sources to use with a JKAN platform
+(This was a repository used for open data sources to use with a JKAN platform. This has now transferred to https://github.com/oxopendata)
 
 The use of GitHub as a potential repository for open source data is also being tested. Learning points will be added as the project progresses
 
